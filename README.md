@@ -21,4 +21,4 @@
 1. Скопируйте `.env` по инструкции из ноутбука и задайте параметры подключения к базе (PostgreSQL/SQLite).  
 2. Запустите `E-commerce OLIST DB.ipynb`, чтобы подготовить инфраструктуру и проверить целостность данных.  
 3. Откройте `E-commerce OLIST analysis.ipynb` и выполните ячейки последовательно для воспроизведения аналитики.  
-4. Для корректного отображения графиков установите зависимости: `pip install pandas numpy matplotlib seaborn sqlalchemy python-dotenv tqdm`.
+4. Установите зависимости из проекта: `pip install -r requirements.txt`.
